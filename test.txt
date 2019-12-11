@@ -1,0 +1,4 @@
+D:\JavaProjects\Proj1\sample.txt regex sensitive \d+
+D:\JavaProjects\Proj1\sample1.txt word insensitive given
+https://jrebel.com/rebellabs/java-regular-expressions-cheat-sheet/ word insensitive matcher
+http://qaru.site/questions/59466/java-params-in-method-signature word sensitive varargs
